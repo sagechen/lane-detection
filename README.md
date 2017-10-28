@@ -1,13 +1,13 @@
 # lane-detection
 A video-based guiding system for autonomous car
 
-# Running method: 
+## Running method: 
 open the main.m and run.
 
-# These operations can be chosen according to the specific situation
-(1) set the value of 'pfilename' in main.m to read the specific videoobject \n
-(2) set the values of variates of 'startno' and 'endno' in main.m to control the first and last frames.
-(3) set the related camera parameters and IPM parameters in GetInfo.m
+## These operations can be chosen according to the specific situation  
+(1) set the value of 'pfilename' in main.m to read the specific videoobject  
+(2) set the values of variates of 'startno' and 'endno' in main.m to control the first and last frames  
+(3) set the related camera parameters and IPM parameters in GetInfo.m  
 
 # File description:
 (1) main.m: the main function
