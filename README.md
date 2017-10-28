@@ -23,4 +23,4 @@ open the main.m and run.
 (11) road lane video files: 'challenge.mp4'  
 
 ## Example:  
-! (https://github.com/sagechen/lane-detection/lanedetection.png)
+![the result](https://github.com/sagechen/lane-detection/lanedetection.png)
